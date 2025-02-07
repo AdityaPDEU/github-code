@@ -1,0 +1,6 @@
+def q1():
+a=input("enter a name")
+  while a<12:
+  a++
+  print(a)
+q1()  
